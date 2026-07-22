@@ -84,3 +84,14 @@ For every major component or architecture choice, record:
 - Reason
 - Risks
 - Date
+
+## Preliminary Component Placement
+
+- Flight controller / AIO: center of frame
+- Battery: TBD, top-mounted or bottom-mounted
+- FPV camera: front
+- ELRS receiver: rear or side of electronics stack
+- Video transmitter: rear or above flight controller
+- VTX antenna: rear, clear of propellers
+- Battery lead: accessible while remaining clear of propellers
+- USB port: must remain accessible after assembly
