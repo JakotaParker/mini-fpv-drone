@@ -55,3 +55,16 @@ Frame V1 is the first physical prototype for a mini 3-inch FPV quadcopter. It is
 - Mounting dimensions have not yet been physically validated.
 - Arm stiffness and crash durability are unknown.
 - Long print duration requires active supervision and printer-safety precautions.
+
+## Frame V1 Specifications
+
+- Propeller class: 3 inch
+- Overall Length:
+- Overall Width:
+- Frame Thickness:
+- Arm Width:
+- Motor mounting-hole spacing:
+- Flight-controller mounting-hole spacing:
+- Estimated frame weight:
+- Battery mounting location:
+- Camera mounting location:
