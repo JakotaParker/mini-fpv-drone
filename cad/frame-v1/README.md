@@ -38,7 +38,7 @@ Frame V1 is the first physical prototype for a mini 3-inch FPV quadcopter. It is
 
 | Check | Status | Notes |
 |---|---|---|
-| CAD geometry completed | Complete | Onshape model exists |
+| CAD geometry completed | COMPLETE | Onshape model exists |
 | STL exported | COMPLETE | |
 | STEP exported | COMPLETE | |
 | Full print completed | Not tested | |
