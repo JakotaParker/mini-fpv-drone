@@ -12,7 +12,7 @@ Use `MUST`, `SHOULD`, and `MAY` to distinguish required, preferred, and optional
 - **AF-006:** The design MUST keep wiring away from propeller paths.
 - **AF-007:** The design SHOULD allow damaged components to be replaced without destroying the frame.
 - **AF-008:** The frame SHOULD include accessible USB and battery connections.
-- **AF-009:** The frame MAY include replaceable camera or antenna mounts.
+- **AF-009:** The frame SHOULD include replaceable camera or antenna mounts.
 
 ## Manufacturing Requirements
 
