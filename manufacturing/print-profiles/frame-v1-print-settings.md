@@ -10,41 +10,42 @@
 ## Material
 
 - Material: PLA+
-- Brand: TBD
-- Color: TBD
-- Filament condition: TBD
+- Brand: SUNLU
+- Color: Black
+- Filament condition: New
 
 ## Cura Settings
 
 | Setting | Value |
 |---|---|
-| Layer height | TBD |
-| Initial layer height | TBD |
-| Line width | TBD |
-| Wall line count | TBD |
-| Top layers | TBD |
-| Bottom layers | TBD |
-| Infill percentage | TBD |
-| Infill pattern | TBD |
-| Printing temperature | TBD |
-| Build plate temperature | TBD |
-| Print speed | TBD |
-| Initial layer speed | TBD |
-| Infill speed | TBD |
-| Travel speed | TBD |
-| Fan speed | TBD |
+| Layer height | 0.2 mm |
+| Initial layer height | 0.2 mm |
+| Line width | 0.4 mm |
+| Wall line count | 4 |
+| Top layers | 5 |
+| Bottom layers | 5 |
+| Infill percentage | 35% |
+| Infill pattern | Gyroid |
+| Printing temperature | 210 C |
+| Build plate temperature | 60 C |
+| Print speed | 40 mm/s |
+| Initial layer speed | 15 mm/s |
+| Infill speed | 35 mm/s |
+| Travel speed | 120 mm/s |
+| Fan speed | 100% |
 | Supports | TBD |
-| Build plate adhesion | TBD |
-| Estimated print time | TBD |
+| Build plate adhesion | Skirt |
+| Estimated print time | 16 hrs |
 
 ## Print Result
 
-- Date:
-- Completed: Yes / No
-- Failure point:
-- Surface quality:
-- Layer adhesion:
-- Warping:
-- Stringing:
-- Dimensional issues:
-- Corrective action:
+- Date: 7/20/2026
+- Completed: No
+- Failure point: Nozzle
+- Surface quality: Jagged lines
+- Layer adhesion: Good
+- Warping: Mild
+- Stringing: Mild
+- Dimensional issues: N/A
+- Corrective action: Manually increased the nozzle temperature to 220 degree, seemed to make materail flow more smoothly. Need to reduce travel speed, increase nozzle temp, and really reduce
+  infill speed. 
