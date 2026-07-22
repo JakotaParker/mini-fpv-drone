@@ -15,7 +15,7 @@ Use a view-only public or appropriately shared link. Do not expose private accou
 ## Expected Files
 
 - `frame-v1.stl` COMPLETE
-- `frame-v1.step`
+- `frame-v1.step`COMPLETE
 - `frame-v1-top.png`
 - `frame-v1-bottom.png`
 - `frame-v1-isometric.png`
