@@ -8,7 +8,7 @@
 
 Paste the share link here:
 
-`ONSHAPE_LINK_HERE`
+`https://cad.onshape.com/documents/b07e0402ccf89ec4abb02c89/w/8f168de043c1d81def7e68bb/e/86ea48fc1ecbca987625806d?renderMode=0&uiState=6a60d696bfd606c1a18ecf3d`
 
 Use a view-only public or appropriately shared link. Do not expose private account information.
 
