@@ -10,6 +10,9 @@ All notable design, manufacturing, electronics, firmware, and testing changes sh
 - Initial 3-inch mini FPV drone repository structure.
 - Initial Frame V1 CAD model created in Onshape.
 - Initial project-definition and system-architecture documents.
+- Initial Cura print profile.
+- Frame V1 .stl manufacturing export.
+- Frame V1 .step CAD exchange export.
 
 #### Not Yet Validated
 - Full-frame print completion
