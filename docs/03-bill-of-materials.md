@@ -33,3 +33,15 @@ Before selecting a part, confirm:
 - Seller reputation
 - Replacement availability
 - Total system compatibility
+
+## Component Compatibility Matrix
+
+| Component | Candidate | Dimensions | Weight | Voltage | Mounting Pattern | Interface | Status |
+|---|---|---:|---:|---:|---|---|---|
+| Flight controller / AIO | TBD | TBD | TBD | TBD | TBD | USB/UART/Motor outputs | Researching |
+| Motor | TBD | TBD | TBD | TBD | TBD | 3 phase wires | Researching |
+| Propeller | TBD | 3 inch | TBD | N/A | Motor shaft | N/A | Researching |
+| FPV camera | TBD | TBD | TBD | TBD | TBD | Analog video | Researching |
+| Video transmitter | TBD | TBD | TBD | TBD | TBD | Video/UART | Researching |
+| ELRS receiver | TBD | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
+| Battery | TBD | TBD | TBD | TBD | Strap area | Power connector | Researching |
