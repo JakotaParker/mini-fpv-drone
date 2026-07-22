@@ -1,0 +1,17 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+*.swp
+
+# Cura and slicer temporary files
+*.3mf.tmp
+*.gcode.tmp
+
+# Large raw video files should normally be linked externally
+*.mov
+*.mp4
