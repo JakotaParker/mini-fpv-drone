@@ -38,7 +38,7 @@ Before selecting a part, confirm:
 
 | Component | Candidate | Dimensions | Weight | Voltage | Mounting Pattern | Interface | Status |
 |---|---|---:|---:|---:|---|---|---|
-| AIO | TBD | TBD | TBD | TBD | TBD | USB/UART/Motor outputs | Researching |
+| AIO | SpeedyBee F405 AIO 35A | TBD | TBD | TBD | TBD | USB/UART/Motor outputs | Researching |
 | Motor | SpeedyBee 1401 V2 | 14 mm x 4 mm | 60 g | 4600 KV | TBD | 3 phase wires | Researching |
 | Propeller | TBD | 3 inch | TBD | N/A | Motor shaft | N/A | Researching |
 | FPV camera | TBD | TBD | TBD | TBD | TBD | Analog video | Researching |
