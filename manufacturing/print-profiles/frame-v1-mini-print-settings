@@ -22,8 +22,8 @@
 | Initial layer height | 0.2 mm |
 | Line width | 0.4 mm |
 | Wall line count | 4 |
-| Top layers | 5 |
-| Bottom layers | 5 |
+| Top layers | 4 |
+| Bottom layers | 4 |
 | Infill percentage | 35% |
 | Infill pattern | Gyroid |
 | Printing temperature | 210 C |
