@@ -4,7 +4,7 @@
 
 - Printer: Ender 3 V2
 - Build surface: Glass
-- Nozzle diameter: TBD
+- Nozzle diameter: 0.4 mm
 - Firmware / leveling method: Manual mesh leveling
 
 ## Material
@@ -21,7 +21,7 @@
 | Layer height | 0.2 mm |
 | Initial layer height | 0.2 mm |
 | Line width | 0.4 mm |
-| Wall line count | 4 |
+| Wall line count | 3 |
 | Top layers | 5 |
 | Bottom layers | 5 |
 | Infill percentage | 35% |
