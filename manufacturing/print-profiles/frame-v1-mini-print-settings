@@ -26,26 +26,26 @@
 | Bottom layers | 4 |
 | Infill percentage | 35% |
 | Infill pattern | Gyroid |
-| Printing temperature | 210 C |
+| Printing temperature | 220 C |
 | Build plate temperature | 60 C |
-| Print speed | 40 mm/s |
+| Initial Build plate temperature | 65 C |
+| Print speed | 35 mm/s |
 | Initial layer speed | 15 mm/s |
 | Infill speed | 35 mm/s |
-| Travel speed | 120 mm/s |
+| Travel speed | 110 mm/s |
 | Fan speed | 100% |
 | Supports | TBD |
 | Build plate adhesion | Skirt |
-| Estimated print time | 16 hrs |
+| Estimated print time | 1 hr |
 
 ## Print Result
 
-- Date: 7/20/2026
-- Completed: No
-- Failure point: Nozzle
-- Surface quality: Jagged lines
-- Layer adhesion: Good
-- Warping: Mild
-- Stringing: Mild
+- Date: 7/26/2026
+- Completed: Yes
+- Failure point: Left corner didnt properly adhere
+- Surface quality: Mainly smooth
+- Layer adhesion: Good, except for top left corner, may be leveling problem
+- Warping: Low to None
+- Stringing: Vey Mild
 - Dimensional issues: N/A
-- Corrective action: Manually increased the nozzle temperature to 220 degree, seemed to make materail flow more smoothly. Need to reduce travel speed, increase nozzle temp, and really reduce
-  infill speed. 
+- Corrective action: Before this print, I had to replace the nozzle because it was scraped, also there was a clog in the bowden tube so I had to cut it some length ant re-attach. 
