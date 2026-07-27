@@ -42,7 +42,7 @@ Before selecting a part, confirm:
 | Motor | SpeedyBee 1401 V2 | 14 mm x 4 mm | 60 g | 4600 KV | TBD | 3 phase wires | Researching |
 | Propeller | Gemfan 3016 | 3 inch | TBD | N/A | Motor shaft | N/A | Researching |
 | FPV camera | RunCam Nano 4 Mini | TBD | TBD | TBD | TBD | Analog video | Researching |
-| Video transmitter | 400 mW SmartAudio VTX | TBD | TBD | TBD | TBD | Video/UART | Researching |
+| Video transmitter | SpeedyBee TX800 | TBD | TBD | TBD | TBD | Video/UART | Researching |
 | ELRS receiver | ELRS Nano Receiver | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
 | Battery | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Goggles | Eachine EV800 5 Inches | TBD | TBD | TBD | Strap area | Power connector | Researching |
