@@ -7,7 +7,7 @@
 - [x] Requirements documented
 - [x] Initial frame designed
 - [x] Component compatibility verified
-- [ ] Total BOM cost calculated
+- [x] Total BOM cost calculated
 - [ ] Remaining specifications filled in
 
 ---
