@@ -71,7 +71,7 @@ Total Extended Cost (Pre-Tax) : $ 431
 | SpeedyBee 1404 V2 | 14 × 14 mm | TBD | 4600 KV | 9 × 9 mm M2 | 3-Phase Motor Wires |
 | Gemfan 3016 | 3 in | TBD | N/A | 1.5 mm Shaft | N/A |
 | RunCam Nano 4 Mini | 14 × 14 mm | TBD | TBD | 14 mm Nano | Analog Video |
-| SpeedyBee TX800 | 28 × 28 mm | 3.3 g | 7–26 V | TPU Mount / Tape | Video + UART |
+| SpeedyBee TX800 | 28 × 28 mm | 3.3 g | 3.7-5 V | TPU Mount / Tape | Video + UART |
 | ELRS Nano Receiver | 12 × 19 mm | 0.7 g | 5 V | Heat Shrink / Tape | CRSF + UART |
 | Tattu R-Line Battery | TBD | 80–85 g | 14.8 V (4S) | Battery Strap | XT30 |
 | BETAFPV VR03 | TBD | TBD | Internal Battery | Head Strap | 5.8 GHz Analog |
