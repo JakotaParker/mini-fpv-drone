@@ -84,3 +84,15 @@ Total Extended Cost (Pre-Tax) : $ 440
 | Charging Adapter | TBD | TBD | N/A | Inline | XT60 ↔ XT30 |
 | Heat Shrink | Various | TBD | N/A | Heat Applied | Insulation |
 | Capacitor | TBD | TBD | 25 V | Soldered | Power Filter |
+
+### Propulsion Verification
+
+- Motor: SpeedyBee 1404 V2 4600KV
+- Propeller: Gemfan 3016
+- Battery: 4S LiPo
+- Maximum thrust per motor: 431 g
+- Maximum combined thrust: 1,724 g
+- Target all-up weight: ≤250 g
+- Estimated thrust-to-weight ratio at 250 g: 6.9:1
+- ESC current verification: Pending
+- Compatibility status: Verified for thrust
