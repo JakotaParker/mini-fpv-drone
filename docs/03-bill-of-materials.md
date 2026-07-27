@@ -44,7 +44,7 @@ Before selecting a part, confirm:
 | FPV camera | RunCam Nano 4 Mini | TBD | TBD | TBD | TBD | Analog video | Researching |
 | Video transmitter | SpeedyBee TX800 | TBD | TBD | TBD | TBD | Video/UART | Researching |
 | ELRS receiver | ELRS Nano Receiver | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
-| Battery | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
+| Battery | Tattu R-Line 650mAh 4S 95C XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Goggles | BETAFPV VR03 | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Smoke Stopper | VIFLY Smoke Stopper | TBD | TBD | TBD | Strap area | Power connector | Researching |
