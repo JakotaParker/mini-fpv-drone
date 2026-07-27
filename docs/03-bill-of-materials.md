@@ -48,3 +48,4 @@ Before selecting a part, confirm:
 | Goggles | Eachine EV800 5 Inches | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Smoke Stopper | VIFLY Smoke Stopper | TBD | TBD | TBD | Strap area | Power connector | Researching |
+| Battery Charger | ToolkitRC C6 50W AC charger | TBD | TBD | TBD | Strap area | Power connector | Researching |
