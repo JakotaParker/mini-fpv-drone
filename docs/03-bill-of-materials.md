@@ -1,5 +1,11 @@
 # 03 — Bill of Materials
 
+**Version:** V1.0
+
+**Status:** Frozen for Prototype V1
+
+**Last Updated:** July 2026
+
 Do not mark a component as selected until its dimensions, voltage, current rating, protocol, and mounting compatibility have been checked.
 
 | Subsystem | Component | Candidate / Part Number | Qty | Selected? | Cost | Compatibility Notes |
