@@ -55,7 +55,7 @@ Before selecting a part, confirm:
 | Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Selected | $35 |
 | Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Selected | $13 |
 | Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Selected | $30 |
-| VTX Antenna | RushFPV Cherry II RHCP (U.FL) | 1 | RushFPV | Selected | $9 |
+| VTX Antenna | Included SpeedyBee MMCX Antenna | 1 | SpeedyBee | Included with TX800 | $0 |
 | XT30 Pigtail | 16 AWG Silicone Wire | 5 | Generic | Selected | $10 |
 | Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Selected | $8 |
 | Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Selected | $8 |
