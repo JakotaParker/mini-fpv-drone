@@ -47,3 +47,4 @@ Before selecting a part, confirm:
 | Battery | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Goggles | Eachine EV800 5 Inches | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Researching |
+| Smoke Stopper | VIFLY Smoke Stopper | TBD | TBD | TBD | Strap area | Power connector | Researching |
