@@ -43,7 +43,7 @@ Before selecting a part, confirm:
 | Propeller | Gemfan 3016 | 3 inch | TBD | N/A | Motor shaft | N/A | Researching |
 | FPV camera | RunCam Nano 4 Mini | TBD | TBD | TBD | TBD | Analog video | Researching |
 | Video transmitter | 400 mW SmartAudio VTX | TBD | TBD | TBD | TBD | Video/UART | Researching |
-| ELRS receiver | Radiomaster RP1 V2 ELRS | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
+| ELRS receiver | ELRS Nano Receiver | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
 | Battery | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Goggles | Eachine EV800 5 Inches | TBD | TBD | TBD | Strap area | Power connector | Researching |
 | Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Researching |
