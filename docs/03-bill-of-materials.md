@@ -38,14 +38,17 @@ Before selecting a part, confirm:
 
 | Component | Candidate | Dimensions | Weight | Voltage | Mounting Pattern | Interface | Status |
 |---|---|---:|---:|---:|---|---|---|
-| AIO | SpeedyBee F405 AIO 35A Bluejay No case | TBD | TBD | TBD | TBD | USB/UART/Motor outputs | Researching |
-| Motor | SpeedyBee 1401 V2 | 14 mm x 4 mm | 60 g | 4600 KV | TBD | 3 phase wires | Researching |
-| Propeller | Gemfan 3016 | 3 inch | TBD | N/A | Motor shaft | N/A | Researching |
-| FPV camera | RunCam Nano 4 Mini | TBD | TBD | TBD | TBD | Analog video | Researching |
-| Video transmitter | SpeedyBee TX800 | TBD | TBD | TBD | TBD | Video/UART | Researching |
-| ELRS receiver | ELRS Nano Receiver | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
-| Battery | Tattu R-Line 650mAh 4S 95C XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
-| Goggles | BETAFPV VR03 | TBD | TBD | TBD | Strap area | Power connector | Researching |
-| Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Researching |
-| Smoke Stopper | VIFLY Smoke Stopper | TBD | TBD | TBD | Strap area | Power connector | Researching |
-| Battery Charger | ToolkitRC C6 50W AC charger | TBD | TBD | TBD | Strap area | Power connector | Researching |
+| AIO | SpeedyBee F405 AIO 35A Bluejay No case | TBD | TBD | TBD | 25.5 × 25.5 mm | USB/UART/Motor outputs | Selected |
+| Motor | SpeedyBee 1401 V2 | 14 mm x 4 mm | TBD | 4600 KV | 9 × 9 mm M2 | 3 phase wires | Selected |
+| Propeller | Gemfan 3016 | 3 inch | TBD | N/A | Motor shaft | N/A | Selected |
+| FPV camera | RunCam Nano 4 Mini | TBD | TBD | TBD | TBD | Analog video | Selected |
+| Video transmitter | SpeedyBee TX800 | TBD | TBD | TBD | TBD | Video/UART | Selected |
+| ELRS receiver | ELRS Nano Receiver | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Selected |
+| Battery | Tattu R-Line 650mAh 4S 95C XT30 | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Goggles | BETAFPV VR03 | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Smoke Stopper | VIFLY Smoke Stopper | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Battery Charger | ToolkitRC C6 50W AC charger | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| VTX Antenna | RUSHFPV Cherry2 Antenna II RHCP | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Battery Connector | XT30 Pigtail 16 AWG Silicone Wire | TBD | TBD | TBD | Strap area | Power connector | Selected |
+
