@@ -54,3 +54,21 @@
 - Export STL and STEP versions.
 - Record Cura settings.
 - Complete and document a supervised full print.
+
+## 2026-07-27 — Component Selection Completed
+
+**Phase:** Step 2 — Complete full BOM  
+**Revision:** Frame V1  
+**Goal:** Establish the project BOM
+
+#### Work Completed
+- Finalized the V1 component list.
+- Verified the analog video and ELRS radio architecture.
+- Confirmed the SpeedyBee F405 AIO dimensions as 33 × 33 × 8 mm.
+- Confirmed the 25.5 × 25.5 mm AIO mounting pattern.
+- Confirmed the 9 × 9 mm M2 motor mounting pattern.
+- Verified a maximum combined propulsion thrust of 1,724 g using the selected 1404 4600KV motors, Gemfan 3016 propellers, and 4S power.
+- Calculated the current pre-tax project cost as approximately $431.
+
+#### Next Action
+- Update the Onshape frame for mechanical integration.
