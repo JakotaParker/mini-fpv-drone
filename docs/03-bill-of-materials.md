@@ -38,23 +38,24 @@ Before selecting a part, confirm:
 
 | Component | Selected Part | Qty | Vendor | Status | Cost |
 |-----------|---------------|:---:|--------|:------:|-----:|
-| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | SpeedyBee | Selected | TBD |
-| Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Selected | TBD |
-| Propellers | Gemfan 3016 | 4 (Buy 20+) | Gemfan | Selected | TBD |
-| FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Selected | TBD |
-| Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Selected | TBD |
-| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Selected | TBD |
-| Battery | Tattu R-Line 650mAh 4S 95C XT30 | 2 | Tattu | Selected | TBD |
-| FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Selected | TBD |
-| Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Selected | TBD |
-| Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Selected | TBD |
-| Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Selected | TBD |
-| VTX Antenna | RushFPV Cherry II RHCP (U.FL) | 1 | RushFPV | Selected | TBD |
-| XT30 Pigtail | 16 AWG Silicone Wire | 1 | Generic | Selected | TBD |
-| Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Selected | TBD |
-| Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Selected | TBD |
+| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | SpeedyBee | Selected | $57 |
+| Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Selected | $50 |
+| Propellers | Gemfan 3016 | 4 (Buy 20+) | Gemfan | Selected | $4 |
+| FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Selected | $24 |
+| Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Selected | $34 |
+| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Selected | $10 |
+| Battery | Tattu R-Line 650mAh 4S 95C XT30 | 2 | Tattu | Selected | $33 |
+| FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Selected | $86 |
+| Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Selected | $35 |
+| Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Selected | $13 |
+| Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Selected | $30 |
+| VTX Antenna | RushFPV Cherry II RHCP (U.FL) | 1 | RushFPV | Selected | $9 |
+| XT30 Pigtail | 16 AWG Silicone Wire | 1 | Generic | Selected | $10 |
+| Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Selected | $8 |
+| Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Selected | $8 |
 | Heat Shrink | Assorted Sizes | 1 Kit | Generic | Selected | TBD |
-| Capacitor | 470 µF Low ESR 25V | 1 | Generic | Selected | TBD |
+| Capacitor | 470 µF Low ESR 25V | 1 | Generic | Selected | $7 |
+Total Cost : $ 430
 
 ## Mechanical & Electrical Specifications
 
