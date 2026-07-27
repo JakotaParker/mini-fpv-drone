@@ -51,4 +51,8 @@ Before selecting a part, confirm:
 | Battery Charger | ToolkitRC C6 50W AC charger | TBD | TBD | TBD | Strap area | Power connector | Selected |
 | VTX Antenna | RUSHFPV Cherry2 Antenna II RHCP | TBD | TBD | TBD | Strap area | Power connector | Selected |
 | Battery Connector | XT30 Pigtail 16 AWG Silicone Wire | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Battery Strap | 15 × 200 mm Kevlar Battery Strap | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Charging Adapter | XT60 Female → XT30 Male | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Heat Shrink Tubing | Amazon | TBD | TBD | TBD | Strap area | Power connector | Selected |
+| Capacitor | 470 µF Low ESR 25V | TBD | TBD | TBD | Strap area | Power connector | Selected |
 
