@@ -46,3 +46,14 @@ Use `MUST`, `SHOULD`, and `MAY` to distinguish required, preferred, and optional
 - **TS-002:** The first hover test MUST occur in a controlled open area.
 - **TS-003:** A preflight inspection MUST be completed before every test flight.
 - **TS-004:** Damage, instability, overheating, or signal loss MUST stop the test.
+
+## Mechanical Requirements
+
+- The frame shall support 3-inch propellers without overlap.
+- The frame shall support a 25.5 × 25.5 mm AIO mounting pattern.
+- The center section shall provide clearance for a 33 × 33 × 8 mm AIO.
+- The motor mounts shall support a 9 × 9 mm M2 pattern.
+- The frame shall support a 14 mm nano FPV camera.
+- The frame shall include mounting provisions for a 15 mm battery strap.
+- The design shall provide safe routing for the VTX antenna, ELRS antenna, and XT30 lead.
+- Target all-up weight shall be 250 g or less.
