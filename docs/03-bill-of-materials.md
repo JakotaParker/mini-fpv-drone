@@ -40,7 +40,7 @@ Before selecting a part, confirm:
 |-----------|---------------|:---:|--------|:------:|-----:|
 | Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | SpeedyBee | Selected | $57 |
 | Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Selected | $50 |
-| Propellers | Gemfan 3016 | 4 (Buy 20+) | Gemfan | Selected | $4 |
+| Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Selected | $16 |
 | FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Selected | $24 |
 | Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Selected | $34 |
 | ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Selected | $10 |
@@ -50,12 +50,12 @@ Before selecting a part, confirm:
 | Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Selected | $13 |
 | Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Selected | $30 |
 | VTX Antenna | RushFPV Cherry II RHCP (U.FL) | 1 | RushFPV | Selected | $9 |
-| XT30 Pigtail | 16 AWG Silicone Wire | 1 | Generic | Selected | $10 |
+| XT30 Pigtail | 16 AWG Silicone Wire | 5 | Generic | Selected | $10 |
 | Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Selected | $8 |
 | Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Selected | $8 |
 | Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Selected | $10 |
 | Capacitor | 470 µF Low ESR 25V | 1 | Generic | Selected | $7 |
-Total Cost : $ 428
+Total Extended Cost (Pre-Tax) : $ 440
 
 ## Mechanical & Electrical Specifications
 
