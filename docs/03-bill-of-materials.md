@@ -45,5 +45,5 @@ Before selecting a part, confirm:
 | Video transmitter | 400 mW SmartAudio VTX | TBD | TBD | TBD | TBD | Video/UART | Researching |
 | ELRS receiver | Radiomaster RP1 V2 ELRS | TBD | TBD | TBD | Mounting method TBD | CRSF/UART | Researching |
 | Battery | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
-| Goggles | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
-| Controller | 4S 650 mAh XT30 | TBD | TBD | TBD | Strap area | Power connector | Researching |
+| Goggles | Eachine EV800 5 Inches | TBD | TBD | TBD | Strap area | Power connector | Researching |
+| Controller | RadioMaster T8L | TBD | TBD | TBD | Strap area | Power connector | Researching |
