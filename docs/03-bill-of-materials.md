@@ -44,25 +44,24 @@ Before selecting a part, confirm:
 
 | Component | Selected Part | Qty | Vendor | Status | Cost |
 |-----------|---------------|:---:|--------|:------:|-----:|
-| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | AliExpress | Selected | $74 |
-| Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Selected | $50 |
-| Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Selected | $16 |
-| FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Selected | $24 |
-| Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Selected | $34 |
-| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Selected | $10 |
-| Battery | Tattu R-Line 650mAh 4S 95C XT30 | 2 | Tattu | Selected | $33 |
-| FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Selected | $86 |
-| Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Selected | $35 |
-| Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Selected | $13 |
-| Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Selected | $30 |
+| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | AliExpress | Ordered | $74 |
+| Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Ordered | $50 |
+| Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Ordered | $16 |
+| FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Ordered | $24 |
+| Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Ordered | $34 |
+| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $10 |
+| Battery | Tattu R-Line 650mAh 4S 95C XT30 | 2 | Tattu | Ordered | $33 |
+| FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Ordered | $86 |
+| Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Ordered | $35 |
+| Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Ordered | $13 |
+| Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Ordered | $30 |
 | VTX Antenna | Included SpeedyBee MMCX Antenna | 1 | SpeedyBee | Included with TX800 | $0 |
-| XT30 Pigtail | 16 AWG Silicone Wire | 5 | Generic | Selected | $10 |
-| Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Selected | $8 |
-| Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Selected | $8 |
-| Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Selected | $10 |
-| Capacitor | 470 µF Low ESR 25V | 1 | Generic | Selected | $7 |
-Total Extended Cost (Pre-Tax) : $ 432
-
+| XT30 Pigtail | 16 AWG Silicone Wire | 5 | Generic | Ordered | $10 |
+| Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Ordered | $8 |
+| Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Ordered | $8 |
+| Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Ordered | $10 |
+| Capacitor | 470 µF Low ESR 25V | 1 | Generic | Ordered | $7 |
+Total Extended Cost (Post-Tax) : $ 520
 ## Mechanical & Electrical Specifications
 
 | Component | Dimensions | Weight | Voltage | Mounting | Interface |
