@@ -25,7 +25,7 @@
 
 ## Ordering
 
-- [ ] Components ordered
+- [x] Components ordered
 - [ ] Components received
 - [ ] Inventory checked
 
