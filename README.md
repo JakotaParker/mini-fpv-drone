@@ -62,11 +62,29 @@ flowchart TD
   - `frame-v1-top.png`
   - `frame-v1-print-test-2026-07-22.md`
 
-## Immediate Next Actions
+# Current Project Status
 
-1. Add the Onshape document link to `cad/frame-v1/README.md`.
-2. Export Frame V1 as STL and STEP files.
-3. Record the current Cura settings in the Frame V1 print-settings file.
-4. Complete a supervised full print.
-5. Inspect and document the printed frame before ordering or mounting components.
-6. Update the requirements and BOM as component decisions are made.
+## Completed
+
+- Initial project planning
+- System architecture
+- Custom Frame V1
+- Mini prototype printed
+- Component compatibility verification
+- Final BOM selected
+- All components ordered
+
+## Current Phase
+
+Mechanical Integration (Frame V2)
+
+## Next Milestones
+
+- Receive components
+- Measure actual dimensions
+- Update Onshape
+- Print Frame V2
+- Assemble electronics
+- First power-on
+- Configure Betaflight
+- Maiden hover
