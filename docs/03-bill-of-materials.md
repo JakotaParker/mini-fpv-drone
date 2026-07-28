@@ -44,7 +44,7 @@ Before selecting a part, confirm:
 
 | Component | Selected Part | Qty | Vendor | Status | Cost |
 |-----------|---------------|:---:|--------|:------:|-----:|
-| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | SpeedyBee | Selected | $57 |
+| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | AliExpress | Selected | $74 |
 | Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Selected | $50 |
 | Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Selected | $16 |
 | FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Selected | $24 |
