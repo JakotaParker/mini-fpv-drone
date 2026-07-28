@@ -49,8 +49,8 @@ Before selecting a part, confirm:
 | Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Ordered | $16 |
 | FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Ordered | $24 |
 | Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Ordered | $34 |
-| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $10 |
-| Battery | Tattu R-Line 650mAh 4S 95C XT30 | 2 | Tattu | Ordered | $33 |
+| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $14 |
+| Battery | Tattu R-Line 850mAh 4S 95C XT30 | 2 | Tattu | Ordered | $33 |
 | FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Ordered | $108 |
 | Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Ordered | $35 |
 | Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Ordered | $13 |
