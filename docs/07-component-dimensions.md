@@ -64,12 +64,12 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Width | | mm | | ☐ |
-| Height | | mm | | ☐ |
-| Depth | | mm | | ☐ |
-| Lens Diameter | | mm | | ☐ |
-| Mount Hole Spacing | | mm | | ☐ |
-| Weight | | g | | ☐ |
+| Width | 14 | mm | AliExpress | X |
+| Height | 14 | mm | AliExpress | X |
+| Depth | 14 | mm | AliExpress | X |
+| Lens Diameter | M8 | mm | AliExpress | X |
+| Mount Hole Spacing | Custom TPU enclosure 14mm gap | mm | AliExpress | X |
+| Weight | 2.9 | g | AliExpress| X |
 
 ---
 
