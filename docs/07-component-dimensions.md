@@ -77,11 +77,11 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Length | | mm | | ☐ |
-| Width | | mm | | ☐ |
-| Thickness | | mm | | ☐ |
-| Antenna Arrangement | | | | ☐ |
-| Weight | | g | | ☐ |
+| Length | 11| mm | AliExpress | X |
+| Width | 18 | mm | AliExpress | X |
+| Thickness | 12 | mm | AliExpress | X |
+| Antenna Arrangement |IPEX1 |  | AliExpress | X |
+| Weight | 0.7| g | AliExpress | X |
 
 ---
 
@@ -89,12 +89,12 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Length | | mm | | ☐ |
-| Width | | mm | | ☐ |
-| Height | | mm | | ☐ |
-| Mount Pattern | | mm | | ☐ |
-| Antenna Connector | | | | ☐ |
-| Weight | | g | | ☐ |
+| Length | 11 | mm | | ☐ |
+| Width | 18| mm | | ☐ |
+| Height | 12 | mm | | ☐ |
+| Mount Pattern | Double-sided top| mm | | ☐ |
+| Antenna Connector |  | | | ☐ |
+| Weight | 0.7 | g | | ☐ |
 
 ---
 
