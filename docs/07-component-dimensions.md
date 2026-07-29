@@ -89,12 +89,12 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Length | 11 | mm | | ☐ |
-| Width | 18| mm | | ☐ |
-| Height | 12 | mm | | ☐ |
-| Mount Pattern | Double-sided top| mm | | ☐ |
-| Antenna Connector |  | | | ☐ |
-| Weight | 0.7 | g | | ☐ |
+| Length | 28 | mm | AliExpress| X |
+| Width | 28| mm | AliExpress | X |
+| Height | 5 | mm | AliExpress | X |
+| Mount Pattern | 20 X 20 M3| mm | AliExpress | X |
+| Antenna Connector | MMCX | | AliExpress | X |
+| Weight | 5.6 | g | AliExpress | X |
 
 ---
 
