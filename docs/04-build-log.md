@@ -93,4 +93,4 @@
 Total Project cost: $520
 
 #### Next Action
--Mechanical integration and update of frame in Onshape
+- Mechanical integration and update of frame in Onshape
