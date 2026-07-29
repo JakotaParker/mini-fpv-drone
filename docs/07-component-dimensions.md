@@ -37,12 +37,12 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Motor Diameter | | mm | | ☐ |
-| Motor Height | | mm | | ☐ |
-| Shaft Diameter | | mm | | ☐ |
-| Mounting Hole Spacing | | mm | | ☐ |
-| Mounting Screw Size | | | | ☐ |
-| Motor Weight | | g | | ☐ |
+| Motor Diameter | 18.1 | mm | SpeedyBee | X |
+| Motor Height | 15 | mm | SpeedyBee | X |
+| Shaft Diameter | 1.5 | mm | SpeedyBee | X |
+| Mounting Hole Spacing | M2X9 | mm | SpeedyBee | X |
+| Mounting Screw Size | M2 | | SpeedyBee | X |
+| Motor Weight | 9.12 | g | SpeedyBee | X |
 
 ---
 
