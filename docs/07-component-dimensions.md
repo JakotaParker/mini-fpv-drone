@@ -50,13 +50,13 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Board Length | 33 | mm | | X |
-| Board Width | 33 | mm | | X |
-| Board Height | 7 | mm | | X |
-| Mount Pattern | 25.5 x 25.5| mm | | X |
-| Hole Diameter | 2 | mm | | X |
-| USB Orientation | Type-C | | | X |
-| Weight | 8.9 | g | | X |
+| Board Length | 33 | mm | AliExpress | X |
+| Board Width | 33 | mm | AliExpress | X |
+| Board Height | 7 | mm | AliExpress | X |
+| Mount Pattern | 25.5 x 25.5| mm | AliExpress | X |
+| Hole Diameter | 2 | mm | AliExpress | X |
+| USB Orientation | Type-C | | AliExpress | X |
+| Weight | 8.9 | g | AliExpress | X |
 
 ---
 
