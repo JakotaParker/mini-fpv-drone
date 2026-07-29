@@ -102,12 +102,12 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Length | | mm | | ☐ |
-| Width | | mm | | ☐ |
-| Height | | mm | | ☐ |
-| Weight | | g | | ☐ |
-| Capacity | | mAh | | ☐ |
-| Cell Count | | S | | ☐ |
+| Length | 59 | mm | AliExpress | X |
+| Width | 30 | mm | AliExpress | X |
+| Height | 32 | mm | AliExpress | X |
+| Weight | 100 | g | AliExpress | X |
+| Capacity | 850 | mAh | AliExpress | X |
+| Cell Count | 4 | S | AliExpress | X |
 
 ---
 
