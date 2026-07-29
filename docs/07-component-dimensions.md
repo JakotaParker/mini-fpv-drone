@@ -115,10 +115,10 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Diameter | | in/mm | | ☐ |
-| Pitch | | | | ☐ |
-| Maximum Sweep Diameter | | mm | | ☐ |
-| Weight | | g | | ☐ |
+| Diameter | 76.5 | mm | AliExpress | X |
+| Pitch | 1.5 | in | AliExpress | X |
+| Maximum Sweep Diameter | 76.5 | mm | AliExpress | X |
+| Weight | 1.18 | g | AliExpress | X |
 
 ---
 
