@@ -84,3 +84,4 @@
 - Propeller selection
 - Camera selection
 - VTX selection
+- Receiver selection
