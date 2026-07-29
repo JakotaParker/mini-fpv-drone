@@ -72,3 +72,11 @@
 
 #### Next Action
 - Update the Onshape frame for mechanical integration.
+
+
+## 2026-07-28 — Ordered every electronic component required for the drone.
+
+#### Work Completed
+- Final BOM
+- Compatibility verification
+- Flight controller selection
