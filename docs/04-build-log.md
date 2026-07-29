@@ -80,3 +80,7 @@
 - Final BOM
 - Compatibility verification
 - Flight controller selection
+- Motor selecetion
+- Propeller selection
+- Camera selection
+- VTX selection
