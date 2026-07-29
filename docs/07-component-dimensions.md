@@ -50,13 +50,13 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Board Length | | mm | | ☐ |
-| Board Width | | mm | | ☐ |
-| Board Height | | mm | | ☐ |
-| Mount Pattern | | mm | | ☐ |
-| Hole Diameter | | mm | | ☐ |
-| USB Orientation | | | | ☐ |
-| Weight | | g | | ☐ |
+| Board Length | 33 | mm | | X |
+| Board Width | 33 | mm | | X |
+| Board Height | 7 | mm | | X |
+| Mount Pattern | 25.5 x 25.5| mm | | X |
+| Hole Diameter | 2 | mm | | X |
+| USB Orientation | Type-C | | | X |
+| Weight | 8.9 | g | | X |
 
 ---
 
