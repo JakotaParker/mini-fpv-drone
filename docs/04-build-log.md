@@ -85,3 +85,12 @@
 - Camera selection
 - VTX selection
 - Receiver selection
+- Goggles
+- Radio
+- Charger
+- Batteries
+
+Total Project cost: $520
+
+#### Next Action
+-Mechanical integration and update of frame in Onshape
