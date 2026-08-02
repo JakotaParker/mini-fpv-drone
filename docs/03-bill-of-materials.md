@@ -47,7 +47,7 @@ Before selecting a part, confirm:
 | Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | AliExpress | Ordered | $74 |
 | Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Ordered | $50 |
 | Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Ordered | $16 |
-| FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Ordered | $24 |
+| FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Ordered | $29.27 |
 | Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Ordered | $34 |
 | ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $14 |
 | Battery | Tattu R-Line 850mAh 4S 95C XT30 | 2 | Tattu | Ordered | $33 |
