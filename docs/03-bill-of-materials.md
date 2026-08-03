@@ -44,13 +44,13 @@ Before selecting a part, confirm:
 
 | Component | Selected Part | Qty | Vendor | Status | Cost |
 |-----------|---------------|:---:|--------|:------:|-----:|
-| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | AliExpress | Ordered | $74 |
-| Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Ordered | $50 |
+| Flight Controller (AIO) | SpeedyBee F405 AIO 35A Bluejay (No Case) | 1 | AliExpress | Ordered | $71.23 |
+| Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Ordered | $55.98 |
 | Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Ordered | $8.29 |
 | FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Ordered | $29.27 |
 | Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Ordered | $58.42 |
-| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $14 |
-| Battery | Tattu R-Line 850mAh 4S 95C XT30 | 2 | Tattu | Ordered | $33 |
+| ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $15.10 |
+| Battery | Tattu R-Line 850mAh 4S 95C XT30 | 2 | Tattu | Ordered | $44.50 |
 | FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Ordered | $114.74 |
 | Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Ordered | $40.72 |
 | Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Ordered | $19.27 |
