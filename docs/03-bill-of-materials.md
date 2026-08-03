@@ -61,7 +61,7 @@ Before selecting a part, confirm:
 | Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Ordered | $2.30 |
 | Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Ordered | $2.66 |
 | Capacitor | 470 µF Low ESR 25V | 5 | Generic | Ordered | $6.43 |
-Total Extended Cost (Post-Tax) : $ 520
+Total Extended Cost (Post-Tax) : $ 529.78
 ## Mechanical & Electrical Specifications
 
 | Component | Dimensions | Weight | Voltage | Mounting | Interface |
