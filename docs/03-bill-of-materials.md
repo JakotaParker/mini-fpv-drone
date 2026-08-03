@@ -59,7 +59,7 @@ Before selecting a part, confirm:
 | XT30 Pigtail | 16 AWG Silicone Wire | 5 | Generic | Ordered | $10 |
 | Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Ordered | $9.77 |
 | Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Ordered | $8 |
-| Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Ordered | $10 |
+| Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Ordered | $2.66 |
 | Capacitor | 470 µF Low ESR 25V | 5 | Generic | Ordered | $6.43 |
 Total Extended Cost (Post-Tax) : $ 520
 ## Mechanical & Electrical Specifications
