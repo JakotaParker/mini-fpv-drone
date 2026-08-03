@@ -60,7 +60,7 @@ Before selecting a part, confirm:
 | Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Ordered | $9.77 |
 | Charging Adapter | XT60 Female → XT30 Male | 1 | Generic | Ordered | $8 |
 | Heat Shrink | XHF UL Listed 225 Pcs Length 3.45 | 1 Kit | XHF | Ordered | $10 |
-| Capacitor | 470 µF Low ESR 25V | 1 | Generic | Ordered | $7 |
+| Capacitor | 470 µF Low ESR 25V | 5 | Generic | Ordered | $6.43 |
 Total Extended Cost (Post-Tax) : $ 520
 ## Mechanical & Electrical Specifications
 
