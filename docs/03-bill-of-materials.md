@@ -54,7 +54,7 @@ Before selecting a part, confirm:
 | FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Ordered | $108 |
 | Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Ordered | $35 |
 | Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Ordered | $13 |
-| Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Ordered | $30 |
+| Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Ordered | $41.10 |
 | VTX Antenna | Included SpeedyBee MMCX Antenna | 1 | SpeedyBee | Included with TX800 | $0 |
 | XT30 Pigtail | 16 AWG Silicone Wire | 5 | Generic | Ordered | $10 |
 | Battery Strap | 15 × 200 mm Kevlar Strap | 2 | Generic | Ordered | $9.77 |
