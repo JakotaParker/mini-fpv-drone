@@ -104,7 +104,7 @@ Current frame features include:
 
 ### Motor Mounts
 
-The SpeedyBee 1404 motors use a 9 mm mounting pattern with M2 hardware.
+The SpeedyBee 1404 motors use a 9 mm square mounting pattern with M2 hardware.
 
 The frame uses clearance holes rather than printed threads. The mounting screws pass through the printed frame and thread directly into the motor.
 
