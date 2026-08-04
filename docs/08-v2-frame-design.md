@@ -137,6 +137,8 @@ Components currently represented in the assembly:
 - SpeedyBee TX800 VTX
 - BETAFPV ELRS Nano receiver
 
+![Master Layout](../media/v2-full-assembly.png)
+
 ### Preliminary Component Placement
 
 **Battery**
