@@ -103,6 +103,8 @@ Current frame features include:
 - Motor mounting holes
 - AIO mounting holes
 
+![Master Layout](../media/v2-frame-top.png)
+
 ### Motor Mounts
 
 The SpeedyBee 1404 motors use a 9 mm square mounting pattern with M2 hardware.
