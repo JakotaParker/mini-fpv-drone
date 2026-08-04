@@ -68,8 +68,7 @@ These models intentionally omit unnecessary electronic detail and are used for p
 
 A master layout was created before redesigning the physical frame.
 
-![Master Layout](media/v2-master-layout.png)
-
+![Master Layout](...../media/v2-master-layout.png)
 ### Motor Layout
 
 The motor layout defines:
