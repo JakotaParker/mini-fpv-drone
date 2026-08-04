@@ -2,6 +2,24 @@
 
 All notable design, manufacturing, electronics, firmware, and testing changes should be recorded here.
 
+## V2 Frame Development 8/3
+
+### Added
+- Created parametric V2 master layout
+- Created simplified component envelope models
+- Designed V2 center body, arms, and motor pads
+- Added SpeedyBee 1404 motor mounting pattern
+- Added SpeedyBee F405 AIO mounting pattern
+- Created assembly-level component packaging study
+- Verified preliminary propeller and component clearances
+
+### In Progress
+- Battery mounting
+- Camera mounting
+- TX800 mounting
+- ELRS receiver retention
+- Antenna routing
+- Structural refinement
 ## Unreleased
 
 ### Frame V1
