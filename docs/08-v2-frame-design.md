@@ -193,7 +193,7 @@ Before printing V2:
 
 - [ ] Verify physical component dimensions when parts arrive
 - [ ] Add battery strap slots
-- [ ] Design camera mounting interface
+- [x] Design camera mounting interface
 - [ ] Design VTX retention/mounting
 - [ ] Design antenna retention
 - [ ] Determine receiver retention method
