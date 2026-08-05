@@ -195,7 +195,7 @@ Before printing V2:
 - [ ] Add battery strap slots
 - [x] Design camera mounting interface
 - [x] Design VTX retention/mounting
-- [ ] Design antenna retention
+- [x] Design antenna retention
 - [ ] Determine receiver retention method
 - [ ] Verify AIO standoff/grommet requirements
 - [ ] Verify motor screw length
