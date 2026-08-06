@@ -48,7 +48,7 @@ Before selecting a part, confirm:
 | Motors | SpeedyBee 1404 V2 4600KV | 4 | SpeedyBee | Ordered | $55.98 |
 | Propellers | Gemfan 3016 | 4 sets (16 props) | Gemfan | Delivered | $8.29 |
 | FPV Camera | RunCam Nano 4 Mini | 1 | RunCam | Ordered | $29.27 |
-| Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Ordered | $58.42 |
+| Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Delivered | $58.42 |
 | ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $15.10 |
 | Battery | Tattu R-Line 850mAh 4S 95C XT30 | 2 | Tattu | Ordered | $44.50 |
 | FPV Goggles | BETAFPV VR03 | 1 | BETAFPV | Ordered | $114.74 |
