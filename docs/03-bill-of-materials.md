@@ -51,7 +51,7 @@ Before selecting a part, confirm:
 | Video Transmitter | SpeedyBee TX800 | 1 | SpeedyBee | Delivered | $58.42 |
 | ELRS Receiver | BETAFPV ELRS Nano Receiver (2.4 GHz) | 1 | BETAFPV | Ordered | $15.10 |
 | Battery | Tattu R-Line 850mAh 4S 95C XT30 | 2 | Tattu | Ordered | $44.50 |
-| FPV Goggles | EACHINE EV800D | 1 | BETAFPV | Ordered | $114.74 |
+| FPV Goggles | EACHINE EV800D | 1 | BETAFPV | Ordered | $166.58 |
 | Radio Controller | RadioMaster T8L ELRS | 1 | RadioMaster | Ordered | $40.72 |
 | Smoke Stopper | VIFLY Smoke Stopper | 1 | VIFLY | Delivered | $19.27 |
 | Battery Charger | ToolkitRC C6 50W AC | 1 | ToolkitRC | Delivered | $41.10 |
