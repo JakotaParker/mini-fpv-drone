@@ -73,7 +73,7 @@ Total Extended Cost (Post-Tax) : $ 529.78
 | SpeedyBee TX800 | 28 × 28 mm | 3.3 g | 3.7-5 V | TPU Mount / Tape | Video + UART |
 | ELRS Nano Receiver | 12 × 19 mm | 0.7 g | 5 V | Heat Shrink / Tape | CRSF + UART |
 | Tattu R-Line Battery | TBD | 80–85 g | 14.8 V (4S) | Battery Strap | XT30 |
-| BETAFPV VR03 | TBD | TBD | Internal Battery | Head Strap | 5.8 GHz Analog |
+| EACHINE EV800D | TBD | TBD | Internal Battery | Head Strap | 5.8 GHz Analog |
 | RadioMaster T8L | TBD | TBD | TBD | Handheld | ELRS 2.4 GHz |
 | VIFLY Smoke Stopper | TBD | TBD | TBD | Inline | XT30 / XT60 |
 | ToolkitRC C6 | TBD | TBD | AC Input | Bench | XT60 + Balance Port |
