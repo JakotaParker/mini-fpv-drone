@@ -18,7 +18,7 @@
 - [x] Frame V1 prototype printed
 - [x] Frame V2 updated with electronics
 - [x] Camera mount designed
-- [ ] Battery strap slots added
+- [x] Battery strap slots added
 - [ ] Mounting holes finalized
 
 ---
