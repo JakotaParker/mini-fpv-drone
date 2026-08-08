@@ -19,7 +19,7 @@
 - [x] Frame V2 updated with electronics
 - [x] Camera mount designed
 - [x] Battery strap slots added
-- [ ] Mounting holes finalized
+- [x] Mounting holes finalized
 
 ---
 
