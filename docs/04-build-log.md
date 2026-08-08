@@ -90,7 +90,7 @@
 - Charger
 - Batteries
 
-Total Project cost: $520
+Total Project cost: $568.28
 
 #### Next Action
 - Mechanical integration and update of frame in Onshape
