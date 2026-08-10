@@ -16,8 +16,8 @@ Do not mark a component as selected until its dimensions, voltage, current ratin
 | Control | AIO | SpeedyBee AIO 35A | 1 | Yes | TBD | Check mounting, UARTs, ESC rating |
 | Radio | ELRS Controller | Radiomaster T8L  | 1 | Yes | TBD | Match transmitter frequency |
 | FPV | FPV camera | RunCam Nano 4 | 1 | Yes | TBD | Check voltage and physical dimensions |
-| FPV | Video transmitter | TBD | 1 | Yes | TBD | Check voltage, output, mounting |
-| FPV | VTX antenna | TBD | 1 | Yes | TBD | Match connector and frequency |
+| FPV | Video transmitter | SpeedyBee TX800 | 1 | Yes | TBD | Check voltage, output, mounting |
+| FPV | VTX antenna | SpeedyBee TX800 | 1 | Yes | TBD | Match connector and frequency |
 | Power | LiPo battery | TBD | 2+ | Yes | TBD | Match cell count and connector |
 | Power | Battery connector | TBD | 1 | Yes | TBD | Match current demand |
 | Hardware | Screws / standoffs | TBD | Set | Yes | TBD | Match frame and electronics |
