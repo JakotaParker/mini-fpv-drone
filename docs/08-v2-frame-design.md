@@ -192,20 +192,20 @@ The assembly was used to check:
 Before printing V2:
 
 - [ ] Verify physical component dimensions when parts arrive
-- [ ] Add battery strap slots
+- [x] Add battery strap slots
 - [x] Design camera mounting interface
 - [x] Design VTX retention/mounting
 - [x] Design antenna retention
-- [ ] Determine receiver retention method
+- [x] Determine receiver retention method
 - [ ] Verify AIO standoff/grommet requirements
 - [ ] Verify motor screw length
-- [ ] Add structural fillets
-- [ ] Review arm-to-center stress concentrations
-- [ ] Review arm-to-motor-pad transitions
+- [x] Add structural fillets
+- [x] Review arm-to-center stress concentrations
+- [x] Review arm-to-motor-pad transitions
 - [ ] Evaluate frame thickness and weight
 - [ ] Export V2 STEP
 - [ ] Export V2 STL
-- [ ] Print V2 prototype
+- [x] Print V2 prototype
 - [ ] Physically test component fit
 
 ---
