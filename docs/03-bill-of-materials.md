@@ -18,7 +18,7 @@ Do not mark a component as selected until its dimensions, voltage, current ratin
 | FPV | FPV camera | RunCam Nano 4 | 1 | Yes | TBD | Check voltage and physical dimensions |
 | FPV | Video transmitter | SpeedyBee TX800 | 1 | Yes | TBD | Check voltage, output, mounting |
 | FPV | VTX antenna | SpeedyBee TX800 | 1 | Yes | TBD | Match connector and frequency |
-| Power | LiPo battery | TBD | 2+ | Yes | TBD | Match cell count and connector |
+| Power | LiPo battery | Tattu 850 mAh | 2+ | Yes | TBD | Match cell count and connector |
 | Power | Battery connector | TBD | 1 | Yes | TBD | Match current demand |
 | Hardware | Screws / standoffs | TBD | Set | Yes | TBD | Match frame and electronics |
 | Safety | Smoke stopper | Existing or TBD | 1 | Yes | TBD | Required for first power-up |
