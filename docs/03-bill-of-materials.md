@@ -14,7 +14,7 @@ Do not mark a component as selected until its dimensions, voltage, current ratin
 | Propulsion | Brushless motor | SpeedyBee 1404 Motor | 4 | Yes | TBD | Match prop, voltage, mounting pattern |
 | Propulsion | 3-inch propeller set | GemFan | 4 sets | Yes | TBD | Check shaft and frame clearance |
 | Control | AIO | SpeedyBee AIO 35A | 1 | Yes | TBD | Check mounting, UARTs, ESC rating |
-| Radio | ELRS receiver | TBD | 1 | Yes | TBD | Match transmitter frequency |
+| Radio | ELRS Controller | Radiomaster T8L  | 1 | Yes | TBD | Match transmitter frequency |
 | FPV | FPV camera | TBD | 1 | Yes | TBD | Check voltage and physical dimensions |
 | FPV | Video transmitter | TBD | 1 | Yes | TBD | Check voltage, output, mounting |
 | FPV | VTX antenna | TBD | 1 | Yes | TBD | Match connector and frequency |
