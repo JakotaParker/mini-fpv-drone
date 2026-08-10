@@ -15,7 +15,7 @@ Do not mark a component as selected until its dimensions, voltage, current ratin
 | Propulsion | 3-inch propeller set | GemFan | 4 sets | Yes | TBD | Check shaft and frame clearance |
 | Control | AIO | SpeedyBee AIO 35A | 1 | Yes | TBD | Check mounting, UARTs, ESC rating |
 | Radio | ELRS Controller | Radiomaster T8L  | 1 | Yes | TBD | Match transmitter frequency |
-| FPV | FPV camera | TBD | 1 | Yes | TBD | Check voltage and physical dimensions |
+| FPV | FPV camera | RunCam Nano 4 | 1 | Yes | TBD | Check voltage and physical dimensions |
 | FPV | Video transmitter | TBD | 1 | Yes | TBD | Check voltage, output, mounting |
 | FPV | VTX antenna | TBD | 1 | Yes | TBD | Match connector and frequency |
 | Power | LiPo battery | TBD | 2+ | Yes | TBD | Match cell count and connector |
