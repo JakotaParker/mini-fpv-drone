@@ -22,7 +22,7 @@ Do not mark a component as selected until its dimensions, voltage, current ratin
 | Power | Battery connector | TBD | 1 | Yes | TBD | Match current demand |
 | Hardware | Screws / standoffs | TBD | Set | Yes | TBD | Match frame and electronics |
 | Safety | Smoke stopper | ViFly 2 | 1 | Yes | TBD | Required for first power-up |
-| Safety | LiPo-safe charging/storage gear | TBD | 1 | Yes | TBD | Required for battery handling |
+| Safety | LiPo-safe charging/storage gear | ToolKit RC | 1 | Yes | TBD | Required for battery handling |
 
 ## BOM Decision Checklist
 
