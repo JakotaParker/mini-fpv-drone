@@ -33,7 +33,7 @@ Record:
 - Print duration
 - Failure location, if any
 
-Result: `PASS / FAIL / NOT TESTED`
+Result: `PASS 
 
 ### T3 — Dimensional Inspection
 
