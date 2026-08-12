@@ -1,0 +1,51 @@
+# Frame V1 Mini Print Settings
+
+## Printer
+
+- Printer: Ender 3 V2
+- Build surface: Glass
+- Nozzle diameter: 0.4 mm
+- Firmware / leveling method: Manual mesh leveling
+
+## Material
+
+- Material: PLA+
+- Brand: SUNLU
+- Color: Black
+- Filament condition: New
+
+## Cura Settings
+
+| Setting | Value |
+|---|---|
+| Layer height | 0.2 mm |
+| Initial layer height | 0.2 mm |
+| Line width | 0.4 mm |
+| Wall line count | 4 |
+| Top layers | 4 |
+| Bottom layers | 4 |
+| Infill percentage | 35% |
+| Infill pattern | Gyroid |
+| Printing temperature | 220 C |
+| Build plate temperature | 60 C |
+| Initial Build plate temperature | 65 C |
+| Print speed | 35 mm/s |
+| Initial layer speed | 15 mm/s |
+| Infill speed | 35 mm/s |
+| Travel speed | 110 mm/s |
+| Fan speed | 100% |
+| Supports | TBD |
+| Build plate adhesion | Skirt |
+| Estimated print time | 1 hr |
+
+## Print Result
+
+- Date: 7/26/2026
+- Completed: Yes
+- Failure point: Left corner didnt properly adhere
+- Surface quality: Mainly smooth
+- Layer adhesion: Good, except for top left corner, may be leveling problem
+- Warping: Low to None
+- Stringing: Vey Mild
+- Dimensional issues: N/A
+- Corrective action: Before this print, I had to replace the nozzle because it was scraped, also there was a clog in the bowden tube so I had to cut it some length ant re-attach. 
