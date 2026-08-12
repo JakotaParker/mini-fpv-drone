@@ -19,12 +19,12 @@
 | Setting | Value |
 |---|---|
 | Layer height | 0.2 mm |
-| Initial layer height | 0.2 mm |
+| Initial layer height | 0.24 mm |
 | Line width | 0.4 mm |
-| Wall line count | 4 |
-| Top layers | 4 |
-| Bottom layers | 4 |
-| Infill percentage | 35% |
+| Wall line count | 5 |
+| Top layers | 5 |
+| Bottom layers | 5 |
+| Infill percentage | 40% |
 | Infill pattern | Gyroid |
 | Printing temperature | 220 C |
 | Build plate temperature | 60 C |
@@ -35,7 +35,7 @@
 | Travel speed | 110 mm/s |
 | Fan speed | 100% |
 | Supports | TBD |
-| Build plate adhesion | Skirt |
+| Build plate adhesion | Brim / 5 mm |
 | Estimated print time | 1 hr |
 
 ## Print Result
