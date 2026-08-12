@@ -6,8 +6,8 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 
 ## Phase 1 — Electronics Planning
 
-- [ ] Create an electronics assembly sequence before soldering anything
-- [ ] Review the exact SpeedyBee F405 AIO wiring and pad diagram
+- [x] Create an electronics assembly sequence before soldering anything
+- [x] Review the exact SpeedyBee F405 AIO wiring and pad diagram
 - [ ] Identify the connection point for each subsystem:
   - [ ] Motor 1
   - [ ] Motor 2
