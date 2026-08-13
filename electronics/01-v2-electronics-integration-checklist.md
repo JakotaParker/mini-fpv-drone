@@ -11,7 +11,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 - [ ] Identify the connection point for each subsystem:
   - [x] Motor 1
   - [x] Motor 2
-  - [ ] Motor 3
+  - [x] Motor 3
   - [ ] Motor 4
   - [ ] Battery / XT30
   - [ ] Capacitor
