@@ -10,7 +10,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 - [x] Review the exact SpeedyBee F405 AIO wiring and pad diagram
 - [ ] Identify the connection point for each subsystem:
   - [x] Motor 1
-  - [ ] Motor 2
+  - [x] Motor 2
   - [ ] Motor 3
   - [ ] Motor 4
   - [ ] Battery / XT30
