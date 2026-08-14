@@ -69,7 +69,7 @@ This document contains the physical dimensions and verification status for every
 | Depth | 14 | mm | AliExpress | X |
 | Lens Diameter | M8 | mm | AliExpress | X |
 | Mount Hole Spacing | Custom TPU enclosure 14mm gap | mm | AliExpress | X |
-| Weight | 2.9 | g | AliExpress| X |
+| Weight | 3 | g | Scale| X |
 
 ---
 
