@@ -17,7 +17,7 @@ This document contains the physical dimensions and verification status for every
 
 | Component | Manufacturer | Model | Qty | Length (mm) | Width (mm) | Height (mm) | Weight (g) | Mount Pattern | Hole Diameter | Important Dimensions / Notes | Measurement Source | Verified |
 |-----------|--------------|-------|-----|-------------|------------|-------------|------------|---------------|---------------|------------------------------|-------------------|----------|
-| Motor | | | 4 | | | | | | | Diameter, shaft size, mounting-hole spacing, screw size | | ☐ |
+| Motor | | | 4 | | | | 9 g | | | Diameter, shaft size, mounting-hole spacing, screw size | | ☐ |
 | Flight Controller / AIO | | | 1 | | | | | | | Board dimensions, connector orientation | | ☐ |
 | Camera | | | 1 | | | | | | | Lens size, mounting-hole spacing | | ☐ |
 | Video Transmitter (VTX) | | | 1 | | | | | | | Antenna connector, mounting pattern | | ☐ |
