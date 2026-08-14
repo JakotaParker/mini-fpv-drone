@@ -37,8 +37,8 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Motor Diameter | 18.1 | mm | SpeedyBee | X |
-| Motor Height | 15 | mm | SpeedyBee | X |
+| Motor Diameter | 18 | mm | Digital Caliper | X |
+| Motor Height | 16.8 | mm | Digital Caliper | X |
 | Shaft Diameter | 1.5 | mm | SpeedyBee | X |
 | Mounting Hole Spacing | M2X9 | mm | SpeedyBee | X |
 | Mounting Screw Size | M2 | | SpeedyBee | X |
