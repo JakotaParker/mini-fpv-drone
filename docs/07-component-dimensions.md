@@ -81,7 +81,7 @@ This document contains the physical dimensions and verification status for every
 | Width | 18 | mm | AliExpress | X |
 | Thickness | 12 | mm | AliExpress | X |
 | Antenna Arrangement |IPEX1 |  | AliExpress | X |
-| Weight | 0.7| g | AliExpress | X |
+| Weight | 2| g | Scale | X |
 
 ---
 
