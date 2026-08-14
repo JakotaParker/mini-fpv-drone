@@ -39,8 +39,8 @@ This document contains the physical dimensions and verification status for every
 |-----------|-------|------|--------------------|----------|
 | Motor Diameter | 18 | mm | Digital Caliper | X |
 | Motor Height | 16.8 | mm | Digital Caliper | X |
-| Shaft Diameter | 1.5 | mm | SpeedyBee | X |
-| Mounting Hole Spacing | M2X9 | mm | SpeedyBee | X |
+| Shaft Diameter | 1.4 | mm | Digital Caliper | X |
+| Mounting Hole Spacing | M2X7.9 | mm | SpeedyBee | X |
 | Mounting Screw Size | M2 | | SpeedyBee | X |
 | Motor Weight | 9.12 | g | SpeedyBee | X |
 
