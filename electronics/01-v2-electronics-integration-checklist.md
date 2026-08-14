@@ -14,7 +14,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
   - [x] Motor 3
   - [x] Motor 4
   - [x] Battery / XT30
-  - [ ] Capacitor
+  - [x] Capacitor
   - [x] Receiver
   - [x] FPV camera
   - [x] TX800 VTX
