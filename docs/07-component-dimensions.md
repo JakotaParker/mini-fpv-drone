@@ -94,7 +94,7 @@ This document contains the physical dimensions and verification status for every
 | Height | 5 | mm | AliExpress | X |
 | Mount Pattern | 20 X 20 M3| mm | AliExpress | X |
 | Antenna Connector | MMCX | | AliExpress | X |
-| Weight | 5.6 | g | AliExpress | X |
+| Weight | 7 | g | Scale | X |
 
 ---
 
