@@ -91,8 +91,8 @@ This document contains the physical dimensions and verification status for every
 |-----------|-------|------|--------------------|----------|
 | Length | 28 | mm | AliExpress| X |
 | Width | 28| mm | AliExpress | X |
-| Height | 5 | mm | AliExpress | X |
-| Mount Pattern | 20 X 20 M3| mm | AliExpress | X |
+| Height | 5.6 | mm | AliExpress | X |
+| Mount Pattern | 20 X 20 M3 End to End 23| mm | Digital Caliper | X |
 | Antenna Connector | MMCX | | AliExpress | X |
 | Weight | 7 | g | Scale | X |
 
@@ -102,10 +102,10 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Length | 59 | mm | AliExpress | X |
-| Width | 30 | mm | AliExpress | X |
+| Length | 59.7 | mm | Digital Caliper | X |
+| Width | 30.4 | mm | Digital Caliper | X |
 | Height | 32 | mm | AliExpress | X |
-| Weight | 100 | g | AliExpress | X |
+| Weight | 99 | g | Scale | X |
 | Capacity | 850 | mAh | AliExpress | X |
 | Cell Count | 4 | S | AliExpress | X |
 
@@ -115,7 +115,7 @@ This document contains the physical dimensions and verification status for every
 
 | Parameter | Value | Unit | Measurement Source | Verified |
 |-----------|-------|------|--------------------|----------|
-| Diameter | 76.5 | mm | AliExpress | X |
+| Diameter | 75.5 | mm | Digital Caliper | X |
 | Pitch | 1.5 | in | AliExpress | X |
 | Maximum Sweep Diameter | 76.5 | mm | AliExpress | X |
 | Weight | 1.18 | g | AliExpress | X |
