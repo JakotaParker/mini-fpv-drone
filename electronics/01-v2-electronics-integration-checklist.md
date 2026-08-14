@@ -21,7 +21,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
   - [ ] Buzzer, if used
 - [ ] Identify the required power rails and signals:
   - [x] VBAT
-  - [ ] 5V
+  - [x] 5V
   - [ ] Ground
   - [ ] UART TX
   - [ ] UART RX
