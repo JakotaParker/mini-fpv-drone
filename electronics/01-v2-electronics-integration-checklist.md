@@ -22,8 +22,8 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 - [ ] Identify the required power rails and signals:
   - [x] VBAT
   - [x] 5V
-  - [ ] Ground
-  - [ ] UART TX
+  - [x] Ground
+  - [x] UART TX
   - [ ] UART RX
   - [ ] Video signal
   - [ ] Motor phases
