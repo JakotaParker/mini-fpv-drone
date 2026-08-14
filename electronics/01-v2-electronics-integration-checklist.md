@@ -41,19 +41,19 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 
 ### Documentation Setup
 
-- [ ] Set up camera / Meta glasses before opening packages
+- [x] Set up camera / Meta glasses before opening packages
 - [X] Record all packages together
-- [ ] Record the unboxing of each major component
-- [ ] Capture close-up footage of each electronic component
-- [ ] Capture the V2 frame beside the real components
-- [ ] Photograph component labels, model numbers, and connectors
+- [x] Record the unboxing of each major component
+- [x] Capture close-up footage of each electronic component
+- [x] Capture the V2 frame beside the real components
+- [x] Photograph component labels, model numbers, and connectors
 
 ### Initial Inspection
 
 - [X] Inspect every package for shipping damage
-- [ ] Confirm each received component matches the ordered model
-- [ ] Confirm all expected accessories and cables are included
-- [ ] Do not solder anything yet
+- [x] Confirm each received component matches the ordered model
+- [x] Confirm all expected accessories and cables are included
+- [x] Do not solder anything yet
 
 ---
 
@@ -63,73 +63,73 @@ Measure every component with digital calipers and compare the measurements again
 
 ### Motors
 
-- [ ] Measure motor diameter
-- [ ] Measure motor height
-- [ ] Measure shaft diameter
-- [ ] Measure mounting-hole spacing
-- [ ] Verify mounting screw size
-- [ ] Verify motor screws do not extend into the motor windings
+- [x] Measure motor diameter
+- [x] Measure motor height
+- [x] Measure shaft diameter
+- [x] Measure mounting-hole spacing
+- [x] Verify mounting screw size
+- [x] Verify motor screws do not extend into the motor windings
 
 ### SpeedyBee F405 AIO
 
-- [ ] Measure board length
-- [ ] Measure board width
-- [ ] Measure board thickness / installed height
-- [ ] Measure mounting-hole spacing
-- [ ] Measure mounting-hole diameter
-- [ ] Verify USB connector location
-- [ ] Verify battery pads
-- [ ] Verify motor pads
-- [ ] Verify UART pads
-- [ ] Verify video pads
+- [x] Measure board length
+- [x] Measure board width
+- [x] Measure board thickness / installed height
+- [x] Measure mounting-hole spacing
+- [x] Measure mounting-hole diameter
+- [x] Verify USB connector location
+- [x] Verify battery pads
+- [x] Verify motor pads
+- [x] Verify UART pads
+- [x] Verify video pads
 
 ### RunCam Nano 4
 
-- [ ] Measure camera width
-- [ ] Measure camera height
-- [ ] Measure camera depth
-- [ ] Verify cable exit direction
-- [ ] Verify lens clearance
+- [x] Measure camera width
+- [x] Measure camera height
+- [x] Measure camera depth
+- [x] Verify cable exit direction
+- [x] Verify lens clearance
 
 ### SpeedyBee TX800 VTX
 
-- [ ] Measure board length
-- [ ] Measure board width
-- [ ] Measure board thickness
-- [ ] Verify antenna connector orientation
-- [ ] Verify power / signal connection locations
+- [x] Measure board length
+- [x] Measure board width
+- [x] Measure board thickness
+- [x] Verify antenna connector orientation
+- [x] Verify power / signal connection locations
 
 ### Receiver
 
-- [ ] Measure receiver length
-- [ ] Measure receiver width
-- [ ] Measure receiver thickness
-- [ ] Verify antenna arrangement
-- [ ] Verify wire / pad orientation
+- [x] Measure receiver length
+- [x] Measure receiver width
+- [x] Measure receiver thickness
+- [x] Verify antenna arrangement
+- [x] Verify wire / pad orientation
 
 ### Battery
 
-- [ ] Measure battery length
-- [ ] Measure battery width
-- [ ] Measure battery height
-- [ ] Measure battery weight
-- [ ] Verify XT30 lead length
-- [ ] Verify battery orientation in the frame
+- [x] Measure battery length
+- [x] Measure battery width
+- [x] Measure battery height
+- [x] Measure battery weight
+- [x] Verify XT30 lead length
+- [x] Verify battery orientation in the frame
 
 ### Other Components
 
-- [ ] Verify propeller diameter
-- [ ] Verify propeller shaft / mounting interface
+- [x] Verify propeller diameter
+- [x] Verify propeller shaft / mounting interface
 - [ ] Measure antenna dimensions
 - [ ] Verify capacitor dimensions
 - [ ] Verify hardware and screw dimensions
 
 ### Documentation
 
-- [ ] Update `07-component-inventory.md`
+- [x] Update `07-component-inventory.md`
 - [ ] Change verified measurements to **Physically Verified**
-- [ ] Record any differences between listed and measured dimensions
-- [ ] Photograph caliper measurements where useful
+- [x] Record any differences between listed and measured dimensions
+- [x] Photograph caliper measurements where useful
 
 ---
 
