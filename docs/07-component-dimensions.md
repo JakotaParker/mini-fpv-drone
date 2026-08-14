@@ -56,7 +56,7 @@ This document contains the physical dimensions and verification status for every
 | Mount Pattern | 25.5 x 25.5| mm | AliExpress | X |
 | Hole Diameter | 2 | mm | AliExpress | X |
 | USB Orientation | Type-C | | AliExpress | X |
-| Weight | 8.9 | g | AliExpress | X |
+| Weight | 10 | g | Scale | X |
 
 ---
 
