@@ -42,7 +42,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 ### Documentation Setup
 
 - [ ] Set up camera / Meta glasses before opening packages
-- [ ] Record all packages together
+- [X] Record all packages together
 - [ ] Record the unboxing of each major component
 - [ ] Capture close-up footage of each electronic component
 - [ ] Capture the V2 frame beside the real components
@@ -50,7 +50,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
 
 ### Initial Inspection
 
-- [ ] Inspect every package for shipping damage
+- [X] Inspect every package for shipping damage
 - [ ] Confirm each received component matches the ordered model
 - [ ] Confirm all expected accessories and cables are included
 - [ ] Do not solder anything yet
