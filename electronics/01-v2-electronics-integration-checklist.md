@@ -27,7 +27,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
   - [x] UART RX
   - [x] Video signal
   - [x] Motor phases
-- [ ] Create the complete electrical wiring diagram
+- [x] Create the complete electrical wiring diagram
 - [ ] Label every wire and destination pad
 - [ ] Create a physical wire-routing plan for the V2 frame
 - [ ] Decide the electronics stack / component placement order
