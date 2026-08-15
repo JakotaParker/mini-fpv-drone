@@ -200,7 +200,7 @@ Install or position every component without permanent wiring.
 
 ### Final TPU Parts
 
-- [ ] Print battery mount
+- [x] Print battery mount
 - [ ] Print camera mount, if TPU
 - [ ] Print antenna mount
 - [ ] Print receiver mount, if used
