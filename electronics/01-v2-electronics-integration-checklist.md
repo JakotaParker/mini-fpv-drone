@@ -127,7 +127,7 @@ Measure every component with digital calipers and compare the measurements again
 ### Documentation
 
 - [x] Update `07-component-inventory.md`
-- [ ] Change verified measurements to **Physically Verified**
+- [x] Change verified measurements to **Physically Verified**
 - [x] Record any differences between listed and measured dimensions
 - [x] Photograph caliper measurements where useful
 
