@@ -192,7 +192,7 @@ Install or position every component without permanent wiring.
 ### TPU Print Testing
 
 - [ ] Slice the smallest / fastest TPU mount first
-- [ ] Run a TPU calibration print
+- [x] Run a TPU calibration print
 - [ ] Inspect print quality
 - [ ] Test-fit the component
 - [ ] Adjust CAD if necessary
