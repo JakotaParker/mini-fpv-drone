@@ -122,7 +122,7 @@ Measure every component with digital calipers and compare the measurements again
 - [x] Verify propeller shaft / mounting interface
 - [x] Measure antenna dimensions
 - [x] Verify capacitor dimensions
-- [ ] Verify hardware and screw dimensions
+- [x] Verify hardware and screw dimensions
 
 ### Documentation
 
