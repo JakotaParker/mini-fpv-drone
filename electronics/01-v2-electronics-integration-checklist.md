@@ -157,7 +157,7 @@ Install or position every component without permanent wiring.
 
 ### Clearance Checks
 
-- [ ] Check propeller clearance
+- [x] Check propeller clearance
 - [ ] Check USB-port accessibility
 - [ ] Check battery-connector routing
 - [ ] Check antenna clearance
