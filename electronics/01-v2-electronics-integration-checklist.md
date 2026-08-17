@@ -147,7 +147,7 @@ Install or position every component without permanent wiring.
 
 ### Electronics
 
-- [ ] Position the AIO
+- [x] Position the AIO
 - [ ] Position the FPV camera
 - [ ] Position the TX800
 - [ ] Position the receiver
