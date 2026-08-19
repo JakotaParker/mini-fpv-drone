@@ -204,7 +204,7 @@ Install or position every component without permanent wiring.
 - [x] Print camera mount, if TPU
 - [x] Print antenna mount
 - [x] Print receiver mount, if used
-- [ ] Print VTX mount / retention part, if used
+- [x] Print VTX mount / retention part, if used
 - [ ] Test-fit every finished TPU part
 
 ### Documentation
