@@ -202,7 +202,7 @@ Before printing V2:
 - [x] Add structural fillets
 - [x] Review arm-to-center stress concentrations
 - [x] Review arm-to-motor-pad transitions
-- [ ] Evaluate frame thickness and weight
+- [x] Evaluate frame thickness and weight
 - [ ] Export V2 STEP
 - [ ] Export V2 STL
 - [x] Print V2 prototype
