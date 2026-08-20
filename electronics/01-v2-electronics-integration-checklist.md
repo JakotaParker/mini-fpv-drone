@@ -140,7 +140,7 @@ Install or position every component without permanent wiring.
 ### Motors and Propulsion
 
 - [x] Mount all four motors
-- [ ] Verify motor-hole alignment
+- [x] Verify motor-hole alignment
 - [x] Verify screw length
 - [x] Temporarily install props or use prop envelopes to verify clearance
 - [ ] Check full propeller sweep
