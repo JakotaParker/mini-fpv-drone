@@ -184,7 +184,7 @@ Install or position every component without permanent wiring.
 ### Before Printing
 
 - [x] Compare each TPU CAD model against real component measurements
-- [ ] Correct dimensions if necessary
+- [x] Correct dimensions if necessary
 - [ ] Add appropriate TPU fit clearance / tolerance
 - [ ] Confirm screw holes and slots align
 - [ ] Confirm wire-routing openings remain accessible
