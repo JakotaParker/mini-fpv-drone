@@ -151,7 +151,7 @@ Install or position every component without permanent wiring.
 - [x] Position the FPV camera
 - [x] Position the TX800
 - [x] Position the receiver
-- [ ] Position the antenna
+- [x] Position the antenna
 - [ ] Position the capacitor
 - [ ] Position the battery
 
