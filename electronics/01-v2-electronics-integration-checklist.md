@@ -152,7 +152,7 @@ Install or position every component without permanent wiring.
 - [x] Position the TX800
 - [x] Position the receiver
 - [x] Position the antenna
-- [ ] Position the capacitor
+- [x] Position the capacitor
 - [ ] Position the battery
 
 ### Clearance Checks
