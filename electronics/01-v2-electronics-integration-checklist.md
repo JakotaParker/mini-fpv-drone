@@ -153,7 +153,7 @@ Install or position every component without permanent wiring.
 - [x] Position the receiver
 - [x] Position the antenna
 - [x] Position the capacitor
-- [ ] Position the battery
+- [x] Position the battery
 
 ### Clearance Checks
 
