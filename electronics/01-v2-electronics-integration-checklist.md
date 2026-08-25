@@ -29,7 +29,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
   - [x] Motor phases
 - [x] Create the complete electrical wiring diagram
 - [ ] Label every wire and destination pad
-- [ ] Create a physical wire-routing plan for the V2 frame
+- [x] Create a physical wire-routing plan for the V2 frame
 - [ ] Decide the electronics stack / component placement order
 - [ ] Confirm USB access after the AIO is installed
 - [ ] Confirm planned wire paths cannot reach the propellers
