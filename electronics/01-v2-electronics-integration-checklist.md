@@ -159,7 +159,7 @@ Install or position every component without permanent wiring.
 
 - [x] Check propeller clearance
 - [ ] Check USB-port accessibility
-- [ ] Check battery-connector routing
+- [x] Check battery-connector routing
 - [ ] Check antenna clearance
 - [ ] Check camera field of view
 - [ ] Check camera lens protection
