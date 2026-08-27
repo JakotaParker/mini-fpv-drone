@@ -195,7 +195,7 @@ Install or position every component without permanent wiring.
 - [x] Run a TPU calibration print
 - [ ] Inspect print quality
 - [ ] Test-fit the component
-- [ ] Adjust CAD if necessary
+- [x] Adjust CAD if necessary
 - [ ] Reprint the test mount if required
 
 ### Final TPU Parts
