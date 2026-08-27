@@ -205,7 +205,7 @@ Install or position every component without permanent wiring.
 - [x] Print antenna mount
 - [x] Print receiver mount, if used
 - [x] Print VTX mount / retention part, if used
-- [ ] Test-fit every finished TPU part
+- [x] Test-fit every finished TPU part
 
 ### Documentation
 
