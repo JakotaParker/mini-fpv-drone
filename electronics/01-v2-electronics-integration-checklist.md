@@ -160,7 +160,7 @@ Install or position every component without permanent wiring.
 - [x] Check propeller clearance
 - [ ] Check USB-port accessibility
 - [x] Check battery-connector routing
-- [ ] Check antenna clearance
+- [x] Check antenna clearance
 - [ ] Check camera field of view
 - [ ] Check camera lens protection
 - [ ] Check that motor wires can reach the AIO
