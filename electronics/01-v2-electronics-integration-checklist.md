@@ -173,7 +173,7 @@ Install or position every component without permanent wiring.
 ### Documentation
 
 - [x] Photograph the complete mock assembly
-- [ ] Record any fitment problems
+- [x] Record any fitment problems
 - [ ] Update CAD if required
 - [ ] Update GitHub documentation with fit-test results
 
