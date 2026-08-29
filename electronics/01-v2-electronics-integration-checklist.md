@@ -19,7 +19,7 @@ Use this checklist to guide the V2 drone from completed frame to first powered f
   - [x] FPV camera
   - [x] TX800 VTX
   - [ ] Buzzer, if used
-- [ ] Identify the required power rails and signals:
+- [x] Identify the required power rails and signals:
   - [x] VBAT
   - [x] 5V
   - [x] Ground
