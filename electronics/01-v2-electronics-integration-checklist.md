@@ -224,7 +224,7 @@ Before permanently installing or soldering the complete system:
 
 - [x] Inspect AIO for visible damage
 - [ ] Inspect motor wires and windings
-- [ ] Inspect receiver
+- [x] Inspect receiver
 - [ ] Inspect TX800
 - [ ] Inspect camera
 - [ ] Inspect antenna connectors
