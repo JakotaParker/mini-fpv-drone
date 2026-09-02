@@ -185,7 +185,7 @@ Install or position every component without permanent wiring.
 
 - [x] Compare each TPU CAD model against real component measurements
 - [x] Correct dimensions if necessary
-- [ ] Add appropriate TPU fit clearance / tolerance
+- [x] Add appropriate TPU fit clearance / tolerance
 - [x] Confirm screw holes and slots align
 - [ ] Confirm wire-routing openings remain accessible
 
