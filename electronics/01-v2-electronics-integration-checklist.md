@@ -222,7 +222,7 @@ Before permanently installing or soldering the complete system:
 
 ### Inspection
 
-- [ ] Inspect AIO for visible damage
+- [x] Inspect AIO for visible damage
 - [ ] Inspect motor wires and windings
 - [ ] Inspect receiver
 - [ ] Inspect TX800
