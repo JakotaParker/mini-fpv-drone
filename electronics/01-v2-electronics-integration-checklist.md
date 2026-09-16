@@ -166,7 +166,7 @@ Install or position every component without permanent wiring.
 - [ ] Check that motor wires can reach the AIO
 - [ ] Check receiver wire routing
 - [ ] Check VTX wire routing
-- [ ] Check camera wire routing
+- [x] Check camera wire routing
 - [ ] Check that no wire can enter the propeller sweep
 - [ ] Check that components do not interfere with one another
 
