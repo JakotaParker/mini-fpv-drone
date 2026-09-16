@@ -161,7 +161,7 @@ Install or position every component without permanent wiring.
 - [x] Check USB-port accessibility
 - [x] Check battery-connector routing
 - [x] Check antenna clearance
-- [ ] Check camera field of view
+- [x] Check camera field of view
 - [ ] Check camera lens protection
 - [ ] Check that motor wires can reach the AIO
 - [ ] Check receiver wire routing
