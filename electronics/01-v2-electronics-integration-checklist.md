@@ -162,7 +162,7 @@ Install or position every component without permanent wiring.
 - [x] Check battery-connector routing
 - [x] Check antenna clearance
 - [x] Check camera field of view
-- [ ] Check camera lens protection
+- [x] Check camera lens protection
 - [ ] Check that motor wires can reach the AIO
 - [ ] Check receiver wire routing
 - [ ] Check VTX wire routing
