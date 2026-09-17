@@ -226,7 +226,7 @@ Before permanently installing or soldering the complete system:
 - [ ] Inspect motor wires and windings
 - [x] Inspect receiver
 - [x] Inspect TX800
-- [ ] Inspect camera
+- [x] Inspect camera
 - [ ] Inspect antenna connectors
 - [ ] Inspect battery connector
 
