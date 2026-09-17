@@ -187,7 +187,7 @@ Install or position every component without permanent wiring.
 - [x] Correct dimensions if necessary
 - [x] Add appropriate TPU fit clearance / tolerance
 - [x] Confirm screw holes and slots align
-- [ ] Confirm wire-routing openings remain accessible
+- [x] Confirm wire-routing openings remain accessible
 
 ### TPU Print Testing
 
