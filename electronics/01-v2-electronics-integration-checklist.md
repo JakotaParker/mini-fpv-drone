@@ -259,15 +259,15 @@ Keep propellers removed during the entire electronics setup process.
 
 ### Preparation
 
-- [ ] Prepare soldering iron
-- [ ] Prepare solder and flux
-- [ ] Prepare wire cutters and wire strippers
-- [ ] Prepare heat shrink
-- [ ] Prepare multimeter
-- [ ] Prepare smoke stopper
-- [ ] Secure the board in a PCB holder / helping hands
-- [ ] Tin wires before attaching them
-- [ ] Tin pads as appropriate
+- [x] Prepare soldering iron
+- [x] Prepare solder and flux
+- [x] Prepare wire cutters and wire strippers
+- [x] Prepare heat shrink
+- [x] Prepare multimeter
+- [x] Prepare smoke stopper
+- [x] Secure the board in a PCB holder / helping hands
+- [x] Tin wires before attaching them
+- [x] Tin pads as appropriate
 
 ### Suggested Soldering Order
 
