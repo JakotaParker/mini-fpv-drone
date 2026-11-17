@@ -210,8 +210,8 @@ Install or position every component without permanent wiring.
 ### Documentation
 
 - [x] Record TPU slicer settings
-- [ ] Photograph or record TPU printing
-- [ ] Document fit adjustments
+- [x] Photograph or record TPU printing
+- [x] Document fit adjustments
 - [ ] Export updated STL / STEP files to GitHub
 
 ---
