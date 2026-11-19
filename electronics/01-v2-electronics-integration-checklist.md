@@ -227,7 +227,7 @@ Before permanently installing or soldering the complete system:
 - [x] Inspect receiver
 - [x] Inspect TX800
 - [x] Inspect camera
-- [ ] Inspect antenna connectors
+- [x] Inspect antenna connectors
 - [ ] Inspect battery connector
 
 ### Flight Controller
