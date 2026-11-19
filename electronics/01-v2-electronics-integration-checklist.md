@@ -232,7 +232,7 @@ Before permanently installing or soldering the complete system:
 
 ### Flight Controller
 
-- [ ] Connect the AIO to the computer using a known-good USB data cable
+- [x] Connect the AIO to the computer using a known-good USB data cable
 - [ ] Verify the flight controller powers from USB
 - [ ] Verify Betaflight Configurator detects the flight controller
 - [ ] Record the current firmware version
