@@ -223,7 +223,7 @@ Before permanently installing or soldering the complete system:
 ### Inspection
 
 - [x] Inspect AIO for visible damage
-- [ ] Inspect motor wires and windings
+- [x] Inspect motor wires and windings
 - [x] Inspect receiver
 - [x] Inspect TX800
 - [x] Inspect camera
